@@ -31,3 +31,11 @@
     transform: rotate(360deg);
   }
 }
+
+.housebox{
+  display: flex;
+}
+.realimage{
+  height: 250px;
+  width: auto;
+}
